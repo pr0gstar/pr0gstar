@@ -5,6 +5,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ch.planken@gmail.com?subject=Hello%20Christoph,%20From%20Github)
 
 - 🧑‍💻 I'm currently working at [ABS Safety Gmbh](https://github.com/abs-safety) as Software Engineer
+- ⌨️ I'm working on customer projects in my free time, so if you need a skilled Software Engineer, just reach out.
 - 🏆 My Goal is to make the world better with quality software
 
    
