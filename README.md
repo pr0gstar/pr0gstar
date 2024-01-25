@@ -4,7 +4,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christoph-planken-a2222b86/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ch.planken@gmail.com?subject=Hello%20Christoph,%20From%20Github)
 
-- 🧑‍💻 Since 2017, I'm working at [ABS Safety Gmbh](https://github.com/abs-safety) as software engineer.
+- 🧑‍💻 Since 2017, I'm working at [ABS Safety GmbH](https://github.com/abs-safety) as software engineer.
 - ⌨️ I'm working on customer projects in my free time, so if you need a skilled software engineer, just reach out.
 - 🏆 My Goal is to make the world better with quality software.
 
