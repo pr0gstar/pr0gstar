@@ -10,7 +10,7 @@
 
    
 ## 💿 My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,react,js,nodejs,tailwind,html,css,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,remix,js,nodejs,tailwind,html,css,aws)](https://skillicons.dev)
 
 
 ## 🏆 My Stats
